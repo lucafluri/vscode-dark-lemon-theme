@@ -13,7 +13,7 @@ VSCode Theme based on Sean Sassenrath's [Super One Dark](https://marketplace.vis
 
 ## Installation
 
-Available for free in the vscode Marketplace
+Available for free in the vscode [Marketplace](https://marketplace.visualstudio.com/items?itemName=lucafluri.dark-lemon)
 
 ## Changes
 
