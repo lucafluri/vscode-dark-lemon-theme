@@ -3,9 +3,9 @@
 		{
 			"settings": {
 				"background": "#1e1e1e",
-				"foreground": "#ABB2BF",
+				"foreground": "#a8a8a8",
 				"findHighlight": "#FFE792",
-				"activeGuide": "#CACED6"
+				"activeGuide": "#a8a8a8"
 			}
 		},
 		{
@@ -1218,11 +1218,11 @@
 		}
 	],
 	"colors": {
-		"activityBar.background": "#141414",
+        "activityBar.background": "#141414",
         "activityBar.foreground": "#ffff50",
         "activityBar.inactiveForeground": "#4d4d4d",
         "activityBar.dropBackground": "#202020", 
-        "activityBarBadge.background": "#424242",
+        "activityBarBadge.background": "#4d4d4d",
         "editorGroup.border": "#00000000",
         "tab.activeBorder": "#ffff50",
         "tab.activeBackground": "#141414",
@@ -1243,20 +1243,20 @@
         "panel.border": "#00000000",
         "panel.background": "#141414",
         "scrollbar.shadow": "#00000000",
-        "contrastBorder": "#00000000",
+        "contrastBorder": "#ffffff00",
         "dropdown.border": "#00000000",
         "sideBar.background": "#141414",
-        "sideBar.foreground": "#666666",
-        "sideBarTitle.foreground": "#666666",
+        "sideBar.foreground": "#a8a8a8",
+        "sideBarTitle.foreground": "#a8a8a8",
         "sideBarSectionHeader.background": "#141414",
         "titleBar.activeBackground": "#141414",
         "editor.background": "#141414",
-        "editor.foreground": "#666666",
+        "editor.foreground": "#ffffff",
         "editorGroupHeader.tabsBackground": "#141414",
         "editorGutter.background": "#141414",
         "editorIndentGuide.background": "#00000000",
         "editorOverviewRuler.border": "#00000000",
-        "editor.selectionBackground": "#ffff5027",
+        "editor.selectionBackground": "#ffff5028",
         "scrollbarSlider.activeBackground": "#2b2b2bc9",
         "scrollbarSlider.background": "#25252593",
         "scrollbarSlider.hoverBackground": "#2e2e2e7a",
@@ -1269,12 +1269,16 @@
         "list.activeSelectionBackground": "#fdfd001f",
         "list.focusBackground": "#fdfd001f",
         "list.highlightForeground": "#ffff50af",
+        "list.focusForeground": "#a8a8a8",
         "list.inactiveFocusBackground": "#1d1d1d",
+        "list.inactiveSelectionForeground": "#adadad",
         "list.inactiveSelectionBackground": "#1d1d1d70",
-		"editor.lineHighlightBackground": "#1d1d1dc9",
-		"list.warningForeground": "#ffff50af",
+        "editor.lineHighlightBackground": "#1d1d1dc9",
+        "list.warningForeground": "#ffff50af",
         "list.errorForeground": "#ff0000b9",
-
+        "titleBar.activeForeground": "#ffffff85",
+        "dropdown.background": "#1d1d1d",
+		"dropdown.listBackground": "#1d1d1d",
 	},
 	"name": "Dark Lemon"
 }

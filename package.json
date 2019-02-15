@@ -6,7 +6,7 @@
     "author": "Luca Fluri",
     "publisher": "lucafluri",
     "repository": "https://github.com/lucafluri/vscode-dark-lemon-theme",
-    "version": "1.1.3",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.31.0"
     },
