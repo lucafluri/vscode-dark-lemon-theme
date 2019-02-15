@@ -1278,7 +1278,7 @@
         "list.errorForeground": "#ff0000b9",
         "titleBar.activeForeground": "#ffffff85",
         "dropdown.background": "#1d1d1d",
-		"dropdown.listBackground": "#1d1d1d",
+        "dropdown.listBackground": "#1d1d1d",
 	},
 	"name": "Dark Lemon"
 }
