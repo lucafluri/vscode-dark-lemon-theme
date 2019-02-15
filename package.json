@@ -1,0 +1,21 @@
+{
+    "name": "dark-lemon",
+    "displayName": "Dark Lemon",
+    "description": "Dark minimalistic theme with yellow accents",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Lemon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Lemon-color-theme.json"
+            }
+        ]
+    }
+}
