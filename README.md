@@ -1,7 +1,7 @@
 # Dark Lemon Theme
 VSCode Theme based on Sean Sassenrath's [Super One Dark](https://marketplace.visualstudio.com/items?itemName=seansassenrath.vscode-theme-superonedark) theme.
 
-![super-dark-one-theme-example](https://github.com/lucafluri/vscode-dark-lemon-theme/blob/master/images/dark-lemon.PNG?raw=true)  
+![dark-lemon-example](https://github.com/lucafluri/vscode-dark-lemon-theme/blob/master/images/dark-lemon.PNG?raw=true)  
 
 ## Features
 
